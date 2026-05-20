@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 def multiply(a: float, b: float) -> float:
     """
     Hàm thực hiện nhân hai số a và b.
