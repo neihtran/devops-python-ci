@@ -1,0 +1,22 @@
+# Thư mục chứa mã bytecode của Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Môi trường ảo (Virtual Environments)
+.venv/
+venv/
+ENV/
+env/
+
+# IDE và Editor
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Docker logs
+*.log
